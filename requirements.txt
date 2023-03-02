@@ -1,5 +1,5 @@
-pip install streamlit
-pip install gpt-index
-pip install langchain
-pip install streamlit-chat
-pip install openai
+streamlit
+gpt-index
+langchain
+streamlit-chat
+openai
