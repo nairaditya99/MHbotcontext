@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/17zMl82-7KCrN7he0ZulcW1KD2gUGoj52
 """
 
-!git clone https://github.com/nairaditya99/MHbotcontext
+git clone https://github.com/nairaditya99/MHbotcontext
 
-!pip install gpt-index
-!pip install langchain
+pip install gpt-index
+pip install langchain
 
 from gpt_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper
 from langchain import OpenAI
